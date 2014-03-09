@@ -1,6 +1,7 @@
 //The driver was tested on STM32F429 Discovery Board 
 //Allows to read and write OV7670 internal registers
 //Pin assignment:PB5-SDA;PB4-SCL
+//Two main functions are sccb_write_reg and sccb_read_reg
 
 static void delay(int c){
 for(int i=0;i<c;i++){
