@@ -1,4 +1,5 @@
 //The driver was tested on STM32F429 Discovery Board 
+//Allowa to read and write OV7670 internal registers
 //Pin assignment:PB5-SDA;PB4-SCL
 
 static void delay(int c){
