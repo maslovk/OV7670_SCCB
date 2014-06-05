@@ -1,6 +1,5 @@
-ov7670_stm32
+OV7670_SCCB
 ============
 
-OV7670 STM32 Driver
+OV7670 SCCB STM32 Driver
 
-Driver is under development
